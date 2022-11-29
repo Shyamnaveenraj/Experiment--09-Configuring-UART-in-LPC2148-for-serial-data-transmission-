@@ -1,7 +1,7 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 
-Name :	A joans jay authers
-Roll no : 212221240019
+Name :	Shyamnaveenraj M
+Roll no : 212221230099
 Date of experiment : 24-11-22
 
 Date: 24-11-22
